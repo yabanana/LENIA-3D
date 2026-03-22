@@ -1,0 +1,1839 @@
+Start testing: Mar 18 11:55 CET
+----------------------------------------------------------
+1/68 Testing: Grid2D.ConstructionCreatesZeroFilledGrid
+1/68 Test: Grid2D.ConstructionCreatesZeroFilledGrid
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.ConstructionCreatesZeroFilledGrid" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.ConstructionCreatesZeroFilledGrid" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.ConstructionCreatesZeroFilledGrid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.ConstructionCreatesZeroFilledGrid
+[       OK ] Grid2D.ConstructionCreatesZeroFilledGrid (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.ConstructionCreatesZeroFilledGrid" end time: Mar 18 11:55 CET
+"Grid2D.ConstructionCreatesZeroFilledGrid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/68 Testing: Grid2D.ShapeReturnsCorrectDimensions
+2/68 Test: Grid2D.ShapeReturnsCorrectDimensions
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.ShapeReturnsCorrectDimensions" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.ShapeReturnsCorrectDimensions" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.ShapeReturnsCorrectDimensions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.ShapeReturnsCorrectDimensions
+[       OK ] Grid2D.ShapeReturnsCorrectDimensions (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.ShapeReturnsCorrectDimensions" end time: Mar 18 11:55 CET
+"Grid2D.ShapeReturnsCorrectDimensions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/68 Testing: Grid2D.ElementAccessWithAt
+3/68 Test: Grid2D.ElementAccessWithAt
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.ElementAccessWithAt" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.ElementAccessWithAt" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.ElementAccessWithAt
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.ElementAccessWithAt
+[       OK ] Grid2D.ElementAccessWithAt (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.ElementAccessWithAt" end time: Mar 18 11:55 CET
+"Grid2D.ElementAccessWithAt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/68 Testing: Grid2D.ElementAccessWithOperatorParens
+4/68 Test: Grid2D.ElementAccessWithOperatorParens
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.ElementAccessWithOperatorParens" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.ElementAccessWithOperatorParens" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.ElementAccessWithOperatorParens
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.ElementAccessWithOperatorParens
+[       OK ] Grid2D.ElementAccessWithOperatorParens (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.ElementAccessWithOperatorParens" end time: Mar 18 11:55 CET
+"Grid2D.ElementAccessWithOperatorParens" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/68 Testing: Grid2D.FillSetsAllCells
+5/68 Test: Grid2D.FillSetsAllCells
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.FillSetsAllCells" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.FillSetsAllCells" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.FillSetsAllCells
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.FillSetsAllCells
+[       OK ] Grid2D.FillSetsAllCells (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.FillSetsAllCells" end time: Mar 18 11:55 CET
+"Grid2D.FillSetsAllCells" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/68 Testing: Grid2D.FillRandomProducesValuesInRange
+6/68 Test: Grid2D.FillRandomProducesValuesInRange
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.FillRandomProducesValuesInRange" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.FillRandomProducesValuesInRange" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.FillRandomProducesValuesInRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.FillRandomProducesValuesInRange
+[       OK ] Grid2D.FillRandomProducesValuesInRange (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.FillRandomProducesValuesInRange" end time: Mar 18 11:55 CET
+"Grid2D.FillRandomProducesValuesInRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/68 Testing: Grid2D.FillRandomIsDeterministicWithSameSeed
+7/68 Test: Grid2D.FillRandomIsDeterministicWithSameSeed
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.FillRandomIsDeterministicWithSameSeed" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.FillRandomIsDeterministicWithSameSeed" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.FillRandomIsDeterministicWithSameSeed
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.FillRandomIsDeterministicWithSameSeed
+[       OK ] Grid2D.FillRandomIsDeterministicWithSameSeed (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.FillRandomIsDeterministicWithSameSeed" end time: Mar 18 11:55 CET
+"Grid2D.FillRandomIsDeterministicWithSameSeed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/68 Testing: Grid2D.TotalMassComputesSum
+8/68 Test: Grid2D.TotalMassComputesSum
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.TotalMassComputesSum" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.TotalMassComputesSum" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.TotalMassComputesSum
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.TotalMassComputesSum
+[       OK ] Grid2D.TotalMassComputesSum (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.TotalMassComputesSum" end time: Mar 18 11:55 CET
+"Grid2D.TotalMassComputesSum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/68 Testing: Grid2D.TotalMassZeroForEmptyGrid
+9/68 Test: Grid2D.TotalMassZeroForEmptyGrid
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.TotalMassZeroForEmptyGrid" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.TotalMassZeroForEmptyGrid" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.TotalMassZeroForEmptyGrid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.TotalMassZeroForEmptyGrid
+[       OK ] Grid2D.TotalMassZeroForEmptyGrid (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.TotalMassZeroForEmptyGrid" end time: Mar 18 11:55 CET
+"Grid2D.TotalMassZeroForEmptyGrid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/68 Testing: Grid2D.ClipClampsValues
+10/68 Test: Grid2D.ClipClampsValues
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.ClipClampsValues" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.ClipClampsValues" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.ClipClampsValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.ClipClampsValues
+[       OK ] Grid2D.ClipClampsValues (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.ClipClampsValues" end time: Mar 18 11:55 CET
+"Grid2D.ClipClampsValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/68 Testing: Grid2D.PlaceBlobCreatesCircularPattern
+11/68 Test: Grid2D.PlaceBlobCreatesCircularPattern
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.PlaceBlobCreatesCircularPattern" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.PlaceBlobCreatesCircularPattern" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.PlaceBlobCreatesCircularPattern
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.PlaceBlobCreatesCircularPattern
+[       OK ] Grid2D.PlaceBlobCreatesCircularPattern (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.PlaceBlobCreatesCircularPattern" end time: Mar 18 11:55 CET
+"Grid2D.PlaceBlobCreatesCircularPattern" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/68 Testing: Grid2D.PlaceBlobWrapsAround
+12/68 Test: Grid2D.PlaceBlobWrapsAround
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.PlaceBlobWrapsAround" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.PlaceBlobWrapsAround" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.PlaceBlobWrapsAround
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.PlaceBlobWrapsAround
+[       OK ] Grid2D.PlaceBlobWrapsAround (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.PlaceBlobWrapsAround" end time: Mar 18 11:55 CET
+"Grid2D.PlaceBlobWrapsAround" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/68 Testing: Grid2D.LinearizationIsRowMajor
+13/68 Test: Grid2D.LinearizationIsRowMajor
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.LinearizationIsRowMajor" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.LinearizationIsRowMajor" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.LinearizationIsRowMajor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.LinearizationIsRowMajor
+[       OK ] Grid2D.LinearizationIsRowMajor (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.LinearizationIsRowMajor" end time: Mar 18 11:55 CET
+"Grid2D.LinearizationIsRowMajor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/68 Testing: Grid2D.DataPointerAllowsDirectAccess
+14/68 Test: Grid2D.DataPointerAllowsDirectAccess
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid2D.DataPointerAllowsDirectAccess" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid2D.DataPointerAllowsDirectAccess" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid2D.DataPointerAllowsDirectAccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid2D
+[ RUN      ] Grid2D.DataPointerAllowsDirectAccess
+[       OK ] Grid2D.DataPointerAllowsDirectAccess (0 ms)
+[----------] 1 test from Grid2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid2D.DataPointerAllowsDirectAccess" end time: Mar 18 11:55 CET
+"Grid2D.DataPointerAllowsDirectAccess" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/68 Testing: Grid3D.ConstructionCreatesZeroFilledGrid
+15/68 Test: Grid3D.ConstructionCreatesZeroFilledGrid
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid3D.ConstructionCreatesZeroFilledGrid" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid3D.ConstructionCreatesZeroFilledGrid" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid3D.ConstructionCreatesZeroFilledGrid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid3D
+[ RUN      ] Grid3D.ConstructionCreatesZeroFilledGrid
+[       OK ] Grid3D.ConstructionCreatesZeroFilledGrid (0 ms)
+[----------] 1 test from Grid3D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid3D.ConstructionCreatesZeroFilledGrid" end time: Mar 18 11:55 CET
+"Grid3D.ConstructionCreatesZeroFilledGrid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/68 Testing: Grid3D.ElementAccessWithAt
+16/68 Test: Grid3D.ElementAccessWithAt
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid3D.ElementAccessWithAt" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid3D.ElementAccessWithAt" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid3D.ElementAccessWithAt
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid3D
+[ RUN      ] Grid3D.ElementAccessWithAt
+[       OK ] Grid3D.ElementAccessWithAt (0 ms)
+[----------] 1 test from Grid3D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid3D.ElementAccessWithAt" end time: Mar 18 11:55 CET
+"Grid3D.ElementAccessWithAt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/68 Testing: Grid3D.FillAndMass
+17/68 Test: Grid3D.FillAndMass
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid3D.FillAndMass" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid3D.FillAndMass" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid3D.FillAndMass
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid3D
+[ RUN      ] Grid3D.FillAndMass
+[       OK ] Grid3D.FillAndMass (0 ms)
+[----------] 1 test from Grid3D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid3D.FillAndMass" end time: Mar 18 11:55 CET
+"Grid3D.FillAndMass" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/68 Testing: Grid3D.PlaceBlobCreatesSphericalPattern
+18/68 Test: Grid3D.PlaceBlobCreatesSphericalPattern
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid3D.PlaceBlobCreatesSphericalPattern" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid3D.PlaceBlobCreatesSphericalPattern" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid3D.PlaceBlobCreatesSphericalPattern
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid3D
+[ RUN      ] Grid3D.PlaceBlobCreatesSphericalPattern
+[       OK ] Grid3D.PlaceBlobCreatesSphericalPattern (0 ms)
+[----------] 1 test from Grid3D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid3D.PlaceBlobCreatesSphericalPattern" end time: Mar 18 11:55 CET
+"Grid3D.PlaceBlobCreatesSphericalPattern" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/68 Testing: Grid3D.ClipClampsValues
+19/68 Test: Grid3D.ClipClampsValues
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid3D.ClipClampsValues" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid3D.ClipClampsValues" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid3D.ClipClampsValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid3D
+[ RUN      ] Grid3D.ClipClampsValues
+[       OK ] Grid3D.ClipClampsValues (0 ms)
+[----------] 1 test from Grid3D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid3D.ClipClampsValues" end time: Mar 18 11:55 CET
+"Grid3D.ClipClampsValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/68 Testing: Grid3D.LinearizationIsRowMajor
+20/68 Test: Grid3D.LinearizationIsRowMajor
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid3D.LinearizationIsRowMajor" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid3D.LinearizationIsRowMajor" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid3D.LinearizationIsRowMajor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid3D
+[ RUN      ] Grid3D.LinearizationIsRowMajor
+[       OK ] Grid3D.LinearizationIsRowMajor (0 ms)
+[----------] 1 test from Grid3D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid3D.LinearizationIsRowMajor" end time: Mar 18 11:55 CET
+"Grid3D.LinearizationIsRowMajor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/68 Testing: Grid3D.FillRandomProducesValuesInRange
+21/68 Test: Grid3D.FillRandomProducesValuesInRange
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Grid3D.FillRandomProducesValuesInRange" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Grid3D.FillRandomProducesValuesInRange" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Grid3D.FillRandomProducesValuesInRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Grid3D
+[ RUN      ] Grid3D.FillRandomProducesValuesInRange
+[       OK ] Grid3D.FillRandomProducesValuesInRange (0 ms)
+[----------] 1 test from Grid3D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Grid3D.FillRandomProducesValuesInRange" end time: Mar 18 11:55 CET
+"Grid3D.FillRandomProducesValuesInRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/68 Testing: Kernel2D.KernelSumsToOne
+22/68 Test: Kernel2D.KernelSumsToOne
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel2D.KernelSumsToOne" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel2D.KernelSumsToOne" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel2D.KernelSumsToOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel2D
+[ RUN      ] Kernel2D.KernelSumsToOne
+[       OK ] Kernel2D.KernelSumsToOne (0 ms)
+[----------] 1 test from Kernel2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel2D.KernelSumsToOne" end time: Mar 18 11:55 CET
+"Kernel2D.KernelSumsToOne" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/68 Testing: Kernel2D.KernelHasCorrectShape
+23/68 Test: Kernel2D.KernelHasCorrectShape
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel2D.KernelHasCorrectShape" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel2D.KernelHasCorrectShape" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel2D.KernelHasCorrectShape
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel2D
+[ RUN      ] Kernel2D.KernelHasCorrectShape
+[       OK ] Kernel2D.KernelHasCorrectShape (0 ms)
+[----------] 1 test from Kernel2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel2D.KernelHasCorrectShape" end time: Mar 18 11:55 CET
+"Kernel2D.KernelHasCorrectShape" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/68 Testing: Kernel2D.KernelIsNonNegative
+24/68 Test: Kernel2D.KernelIsNonNegative
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel2D.KernelIsNonNegative" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel2D.KernelIsNonNegative" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel2D.KernelIsNonNegative
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel2D
+[ RUN      ] Kernel2D.KernelIsNonNegative
+[       OK ] Kernel2D.KernelIsNonNegative (0 ms)
+[----------] 1 test from Kernel2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel2D.KernelIsNonNegative" end time: Mar 18 11:55 CET
+"Kernel2D.KernelIsNonNegative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/68 Testing: Kernel2D.KernelHasAnnularStructure
+25/68 Test: Kernel2D.KernelHasAnnularStructure
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel2D.KernelHasAnnularStructure" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel2D.KernelHasAnnularStructure" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel2D.KernelHasAnnularStructure
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel2D
+[ RUN      ] Kernel2D.KernelHasAnnularStructure
+[       OK ] Kernel2D.KernelHasAnnularStructure (0 ms)
+[----------] 1 test from Kernel2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel2D.KernelHasAnnularStructure" end time: Mar 18 11:55 CET
+"Kernel2D.KernelHasAnnularStructure" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/68 Testing: Kernel2D.KernelIsRadiallySymmetric
+26/68 Test: Kernel2D.KernelIsRadiallySymmetric
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel2D.KernelIsRadiallySymmetric" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel2D.KernelIsRadiallySymmetric" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel2D.KernelIsRadiallySymmetric
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel2D
+[ RUN      ] Kernel2D.KernelIsRadiallySymmetric
+[       OK ] Kernel2D.KernelIsRadiallySymmetric (0 ms)
+[----------] 1 test from Kernel2D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel2D.KernelIsRadiallySymmetric" end time: Mar 18 11:55 CET
+"Kernel2D.KernelIsRadiallySymmetric" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/68 Testing: Kernel2D.SpectrumHasCorrectSize
+27/68 Test: Kernel2D.SpectrumHasCorrectSize
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel2D.SpectrumHasCorrectSize" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel2D.SpectrumHasCorrectSize" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel2D.SpectrumHasCorrectSize
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel2D
+[ RUN      ] Kernel2D.SpectrumHasCorrectSize
+[       OK ] Kernel2D.SpectrumHasCorrectSize (34 ms)
+[----------] 1 test from Kernel2D (34 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (34 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel2D.SpectrumHasCorrectSize" end time: Mar 18 11:55 CET
+"Kernel2D.SpectrumHasCorrectSize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/68 Testing: Kernel2D.SpectrumDCComponentMatchesSum
+28/68 Test: Kernel2D.SpectrumDCComponentMatchesSum
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel2D.SpectrumDCComponentMatchesSum" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel2D.SpectrumDCComponentMatchesSum" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel2D.SpectrumDCComponentMatchesSum
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel2D
+[ RUN      ] Kernel2D.SpectrumDCComponentMatchesSum
+[       OK ] Kernel2D.SpectrumDCComponentMatchesSum (35 ms)
+[----------] 1 test from Kernel2D (35 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (35 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel2D.SpectrumDCComponentMatchesSum" end time: Mar 18 11:55 CET
+"Kernel2D.SpectrumDCComponentMatchesSum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/68 Testing: Kernel3D.KernelSumsToOne
+29/68 Test: Kernel3D.KernelSumsToOne
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel3D.KernelSumsToOne" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel3D.KernelSumsToOne" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel3D.KernelSumsToOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel3D
+[ RUN      ] Kernel3D.KernelSumsToOne
+[       OK ] Kernel3D.KernelSumsToOne (0 ms)
+[----------] 1 test from Kernel3D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel3D.KernelSumsToOne" end time: Mar 18 11:55 CET
+"Kernel3D.KernelSumsToOne" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/68 Testing: Kernel3D.KernelHasCorrectShape
+30/68 Test: Kernel3D.KernelHasCorrectShape
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel3D.KernelHasCorrectShape" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel3D.KernelHasCorrectShape" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel3D.KernelHasCorrectShape
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel3D
+[ RUN      ] Kernel3D.KernelHasCorrectShape
+[       OK ] Kernel3D.KernelHasCorrectShape (0 ms)
+[----------] 1 test from Kernel3D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel3D.KernelHasCorrectShape" end time: Mar 18 11:55 CET
+"Kernel3D.KernelHasCorrectShape" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/68 Testing: Kernel3D.KernelIsNonNegative
+31/68 Test: Kernel3D.KernelIsNonNegative
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel3D.KernelIsNonNegative" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel3D.KernelIsNonNegative" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel3D.KernelIsNonNegative
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel3D
+[ RUN      ] Kernel3D.KernelIsNonNegative
+[       OK ] Kernel3D.KernelIsNonNegative (0 ms)
+[----------] 1 test from Kernel3D (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel3D.KernelIsNonNegative" end time: Mar 18 11:55 CET
+"Kernel3D.KernelIsNonNegative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/68 Testing: Kernel3D.SpectrumHasCorrectSize
+32/68 Test: Kernel3D.SpectrumHasCorrectSize
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Kernel3D.SpectrumHasCorrectSize" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Kernel3D.SpectrumHasCorrectSize" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Kernel3D.SpectrumHasCorrectSize
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Kernel3D
+[ RUN      ] Kernel3D.SpectrumHasCorrectSize
+[       OK ] Kernel3D.SpectrumHasCorrectSize (9 ms)
+[----------] 1 test from Kernel3D (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Kernel3D.SpectrumHasCorrectSize" end time: Mar 18 11:55 CET
+"Kernel3D.SpectrumHasCorrectSize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/68 Testing: FFT2D.ForwardInverseRecoverConstantField
+33/68 Test: FFT2D.ForwardInverseRecoverConstantField
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=FFT2D.ForwardInverseRecoverConstantField" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"FFT2D.ForwardInverseRecoverConstantField" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FFT2D.ForwardInverseRecoverConstantField
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FFT2D
+[ RUN      ] FFT2D.ForwardInverseRecoverConstantField
+[       OK ] FFT2D.ForwardInverseRecoverConstantField (4 ms)
+[----------] 1 test from FFT2D (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FFT2D.ForwardInverseRecoverConstantField" end time: Mar 18 11:55 CET
+"FFT2D.ForwardInverseRecoverConstantField" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/68 Testing: FFT2D.ForwardInverseRecoverImpulse
+34/68 Test: FFT2D.ForwardInverseRecoverImpulse
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=FFT2D.ForwardInverseRecoverImpulse" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"FFT2D.ForwardInverseRecoverImpulse" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FFT2D.ForwardInverseRecoverImpulse
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FFT2D
+[ RUN      ] FFT2D.ForwardInverseRecoverImpulse
+[       OK ] FFT2D.ForwardInverseRecoverImpulse (3 ms)
+[----------] 1 test from FFT2D (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FFT2D.ForwardInverseRecoverImpulse" end time: Mar 18 11:55 CET
+"FFT2D.ForwardInverseRecoverImpulse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/68 Testing: FFT2D.ForwardInverseRecoverArbitrarySignal
+35/68 Test: FFT2D.ForwardInverseRecoverArbitrarySignal
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=FFT2D.ForwardInverseRecoverArbitrarySignal" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"FFT2D.ForwardInverseRecoverArbitrarySignal" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FFT2D.ForwardInverseRecoverArbitrarySignal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FFT2D
+[ RUN      ] FFT2D.ForwardInverseRecoverArbitrarySignal
+[       OK ] FFT2D.ForwardInverseRecoverArbitrarySignal (4 ms)
+[----------] 1 test from FFT2D (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FFT2D.ForwardInverseRecoverArbitrarySignal" end time: Mar 18 11:55 CET
+"FFT2D.ForwardInverseRecoverArbitrarySignal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/68 Testing: FFT2D.PointwiseMultiplyWithIdentity
+36/68 Test: FFT2D.PointwiseMultiplyWithIdentity
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=FFT2D.PointwiseMultiplyWithIdentity" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"FFT2D.PointwiseMultiplyWithIdentity" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FFT2D.PointwiseMultiplyWithIdentity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FFT2D
+[ RUN      ] FFT2D.PointwiseMultiplyWithIdentity
+[       OK ] FFT2D.PointwiseMultiplyWithIdentity (2 ms)
+[----------] 1 test from FFT2D (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FFT2D.PointwiseMultiplyWithIdentity" end time: Mar 18 11:55 CET
+"FFT2D.PointwiseMultiplyWithIdentity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/68 Testing: FFT2D.PointwiseMultiplyWithZero
+37/68 Test: FFT2D.PointwiseMultiplyWithZero
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=FFT2D.PointwiseMultiplyWithZero" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"FFT2D.PointwiseMultiplyWithZero" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FFT2D.PointwiseMultiplyWithZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FFT2D
+[ RUN      ] FFT2D.PointwiseMultiplyWithZero
+[       OK ] FFT2D.PointwiseMultiplyWithZero (3 ms)
+[----------] 1 test from FFT2D (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FFT2D.PointwiseMultiplyWithZero" end time: Mar 18 11:55 CET
+"FFT2D.PointwiseMultiplyWithZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/68 Testing: FFT2D.SpectrumSizeIsCorrect
+38/68 Test: FFT2D.SpectrumSizeIsCorrect
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=FFT2D.SpectrumSizeIsCorrect" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"FFT2D.SpectrumSizeIsCorrect" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FFT2D.SpectrumSizeIsCorrect
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FFT2D
+[ RUN      ] FFT2D.SpectrumSizeIsCorrect
+[       OK ] FFT2D.SpectrumSizeIsCorrect (35 ms)
+[----------] 1 test from FFT2D (35 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (35 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"FFT2D.SpectrumSizeIsCorrect" end time: Mar 18 11:55 CET
+"FFT2D.SpectrumSizeIsCorrect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/68 Testing: FFT3D.ForwardInverseRecoverConstantField
+39/68 Test: FFT3D.ForwardInverseRecoverConstantField
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=FFT3D.ForwardInverseRecoverConstantField" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"FFT3D.ForwardInverseRecoverConstantField" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FFT3D.ForwardInverseRecoverConstantField
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FFT3D
+[ RUN      ] FFT3D.ForwardInverseRecoverConstantField
+[       OK ] FFT3D.ForwardInverseRecoverConstantField (8 ms)
+[----------] 1 test from FFT3D (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FFT3D.ForwardInverseRecoverConstantField" end time: Mar 18 11:55 CET
+"FFT3D.ForwardInverseRecoverConstantField" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/68 Testing: FFT3D.ForwardInverseRecoverImpulse
+40/68 Test: FFT3D.ForwardInverseRecoverImpulse
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=FFT3D.ForwardInverseRecoverImpulse" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"FFT3D.ForwardInverseRecoverImpulse" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FFT3D.ForwardInverseRecoverImpulse
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FFT3D
+[ RUN      ] FFT3D.ForwardInverseRecoverImpulse
+[       OK ] FFT3D.ForwardInverseRecoverImpulse (8 ms)
+[----------] 1 test from FFT3D (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FFT3D.ForwardInverseRecoverImpulse" end time: Mar 18 11:55 CET
+"FFT3D.ForwardInverseRecoverImpulse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/68 Testing: FFT3D.SpectrumSizeIsCorrect
+41/68 Test: FFT3D.SpectrumSizeIsCorrect
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=FFT3D.SpectrumSizeIsCorrect" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"FFT3D.SpectrumSizeIsCorrect" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FFT3D.SpectrumSizeIsCorrect
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FFT3D
+[ RUN      ] FFT3D.SpectrumSizeIsCorrect
+[       OK ] FFT3D.SpectrumSizeIsCorrect (9 ms)
+[----------] 1 test from FFT3D (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FFT3D.SpectrumSizeIsCorrect" end time: Mar 18 11:55 CET
+"FFT3D.SpectrumSizeIsCorrect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/68 Testing: Growth.PeakAtMuReturnsOne
+42/68 Test: Growth.PeakAtMuReturnsOne
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Growth.PeakAtMuReturnsOne" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Growth.PeakAtMuReturnsOne" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Growth.PeakAtMuReturnsOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Growth
+[ RUN      ] Growth.PeakAtMuReturnsOne
+[       OK ] Growth.PeakAtMuReturnsOne (0 ms)
+[----------] 1 test from Growth (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Growth.PeakAtMuReturnsOne" end time: Mar 18 11:55 CET
+"Growth.PeakAtMuReturnsOne" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/68 Testing: Growth.FarFromMuReturnsNearNegativeOne
+43/68 Test: Growth.FarFromMuReturnsNearNegativeOne
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Growth.FarFromMuReturnsNearNegativeOne" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Growth.FarFromMuReturnsNearNegativeOne" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Growth.FarFromMuReturnsNearNegativeOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Growth
+[ RUN      ] Growth.FarFromMuReturnsNearNegativeOne
+[       OK ] Growth.FarFromMuReturnsNearNegativeOne (0 ms)
+[----------] 1 test from Growth (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Growth.FarFromMuReturnsNearNegativeOne" end time: Mar 18 11:55 CET
+"Growth.FarFromMuReturnsNearNegativeOne" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/68 Testing: Growth.SymmetryAroundMu
+44/68 Test: Growth.SymmetryAroundMu
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Growth.SymmetryAroundMu" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Growth.SymmetryAroundMu" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Growth.SymmetryAroundMu
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Growth
+[ RUN      ] Growth.SymmetryAroundMu
+[       OK ] Growth.SymmetryAroundMu (0 ms)
+[----------] 1 test from Growth (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Growth.SymmetryAroundMu" end time: Mar 18 11:55 CET
+"Growth.SymmetryAroundMu" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/68 Testing: Growth.MonotonicallyDecreasingFromPeak
+45/68 Test: Growth.MonotonicallyDecreasingFromPeak
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Growth.MonotonicallyDecreasingFromPeak" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Growth.MonotonicallyDecreasingFromPeak" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Growth.MonotonicallyDecreasingFromPeak
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Growth
+[ RUN      ] Growth.MonotonicallyDecreasingFromPeak
+[       OK ] Growth.MonotonicallyDecreasingFromPeak (0 ms)
+[----------] 1 test from Growth (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Growth.MonotonicallyDecreasingFromPeak" end time: Mar 18 11:55 CET
+"Growth.MonotonicallyDecreasingFromPeak" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/68 Testing: Growth.RangeIsBetweenMinusOneAndOne
+46/68 Test: Growth.RangeIsBetweenMinusOneAndOne
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Growth.RangeIsBetweenMinusOneAndOne" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Growth.RangeIsBetweenMinusOneAndOne" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Growth.RangeIsBetweenMinusOneAndOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Growth
+[ RUN      ] Growth.RangeIsBetweenMinusOneAndOne
+[       OK ] Growth.RangeIsBetweenMinusOneAndOne (0 ms)
+[----------] 1 test from Growth (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Growth.RangeIsBetweenMinusOneAndOne" end time: Mar 18 11:55 CET
+"Growth.RangeIsBetweenMinusOneAndOne" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/68 Testing: Growth.DifferentParameters
+47/68 Test: Growth.DifferentParameters
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Growth.DifferentParameters" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Growth.DifferentParameters" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Growth.DifferentParameters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Growth
+[ RUN      ] Growth.DifferentParameters
+[       OK ] Growth.DifferentParameters (0 ms)
+[----------] 1 test from Growth (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Growth.DifferentParameters" end time: Mar 18 11:55 CET
+"Growth.DifferentParameters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/68 Testing: GrowthBatch.MatchesScalarVersion
+48/68 Test: GrowthBatch.MatchesScalarVersion
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=GrowthBatch.MatchesScalarVersion" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"GrowthBatch.MatchesScalarVersion" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GrowthBatch.MatchesScalarVersion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GrowthBatch
+[ RUN      ] GrowthBatch.MatchesScalarVersion
+[       OK ] GrowthBatch.MatchesScalarVersion (0 ms)
+[----------] 1 test from GrowthBatch (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GrowthBatch.MatchesScalarVersion" end time: Mar 18 11:55 CET
+"GrowthBatch.MatchesScalarVersion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/68 Testing: GrowthBatch.HandlesEmptyInput
+49/68 Test: GrowthBatch.HandlesEmptyInput
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=GrowthBatch.HandlesEmptyInput" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"GrowthBatch.HandlesEmptyInput" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GrowthBatch.HandlesEmptyInput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GrowthBatch
+[ RUN      ] GrowthBatch.HandlesEmptyInput
+[       OK ] GrowthBatch.HandlesEmptyInput (0 ms)
+[----------] 1 test from GrowthBatch (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GrowthBatch.HandlesEmptyInput" end time: Mar 18 11:55 CET
+"GrowthBatch.HandlesEmptyInput" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/68 Testing: GrowthBatch.InPlaceOperation
+50/68 Test: GrowthBatch.InPlaceOperation
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=GrowthBatch.InPlaceOperation" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"GrowthBatch.InPlaceOperation" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GrowthBatch.InPlaceOperation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GrowthBatch
+[ RUN      ] GrowthBatch.InPlaceOperation
+[       OK ] GrowthBatch.InPlaceOperation (0 ms)
+[----------] 1 test from GrowthBatch (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GrowthBatch.InPlaceOperation" end time: Mar 18 11:55 CET
+"GrowthBatch.InPlaceOperation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/68 Testing: GrowthBatch.LargeArray
+51/68 Test: GrowthBatch.LargeArray
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=GrowthBatch.LargeArray" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"GrowthBatch.LargeArray" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GrowthBatch.LargeArray
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GrowthBatch
+[ RUN      ] GrowthBatch.LargeArray
+[       OK ] GrowthBatch.LargeArray (0 ms)
+[----------] 1 test from GrowthBatch (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GrowthBatch.LargeArray" end time: Mar 18 11:55 CET
+"GrowthBatch.LargeArray" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/68 Testing: Lenia2DTest.ConstructionSucceeds
+52/68 Test: Lenia2DTest.ConstructionSucceeds
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.ConstructionSucceeds" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.ConstructionSucceeds" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.ConstructionSucceeds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.ConstructionSucceeds
+[       OK ] Lenia2DTest.ConstructionSucceeds (47 ms)
+[----------] 1 test from Lenia2DTest (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (47 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.ConstructionSucceeds" end time: Mar 18 11:55 CET
+"Lenia2DTest.ConstructionSucceeds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/68 Testing: Lenia2DTest.InitRandomProducesNonzeroMass
+53/68 Test: Lenia2DTest.InitRandomProducesNonzeroMass
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.InitRandomProducesNonzeroMass" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.InitRandomProducesNonzeroMass" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.InitRandomProducesNonzeroMass
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.InitRandomProducesNonzeroMass
+[       OK ] Lenia2DTest.InitRandomProducesNonzeroMass (47 ms)
+[----------] 1 test from Lenia2DTest (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (47 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.InitRandomProducesNonzeroMass" end time: Mar 18 11:55 CET
+"Lenia2DTest.InitRandomProducesNonzeroMass" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/68 Testing: Lenia2DTest.StepAdvancesIteration
+54/68 Test: Lenia2DTest.StepAdvancesIteration
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.StepAdvancesIteration" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.StepAdvancesIteration" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.StepAdvancesIteration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.StepAdvancesIteration
+[       OK ] Lenia2DTest.StepAdvancesIteration (47 ms)
+[----------] 1 test from Lenia2DTest (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (47 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.StepAdvancesIteration" end time: Mar 18 11:55 CET
+"Lenia2DTest.StepAdvancesIteration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/68 Testing: Lenia2DTest.StepChangesState
+55/68 Test: Lenia2DTest.StepChangesState
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.StepChangesState" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.StepChangesState" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.StepChangesState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.StepChangesState
+[       OK ] Lenia2DTest.StepChangesState (47 ms)
+[----------] 1 test from Lenia2DTest (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (47 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.StepChangesState" end time: Mar 18 11:55 CET
+"Lenia2DTest.StepChangesState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/68 Testing: Lenia2DTest.ValuesStayInZeroOneRange
+56/68 Test: Lenia2DTest.ValuesStayInZeroOneRange
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.ValuesStayInZeroOneRange" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.ValuesStayInZeroOneRange" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.ValuesStayInZeroOneRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.ValuesStayInZeroOneRange
+[       OK ] Lenia2DTest.ValuesStayInZeroOneRange (48 ms)
+[----------] 1 test from Lenia2DTest (48 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (48 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.ValuesStayInZeroOneRange" end time: Mar 18 11:55 CET
+"Lenia2DTest.ValuesStayInZeroOneRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/68 Testing: Lenia2DTest.MassChangesGradually
+57/68 Test: Lenia2DTest.MassChangesGradually
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.MassChangesGradually" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.MassChangesGradually" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.MassChangesGradually
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.MassChangesGradually
+[       OK ] Lenia2DTest.MassChangesGradually (48 ms)
+[----------] 1 test from Lenia2DTest (48 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (48 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.MassChangesGradually" end time: Mar 18 11:55 CET
+"Lenia2DTest.MassChangesGradually" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/68 Testing: Lenia2DTest.DtMatchesT
+58/68 Test: Lenia2DTest.DtMatchesT
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.DtMatchesT" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.DtMatchesT" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.DtMatchesT
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.DtMatchesT
+[       OK ] Lenia2DTest.DtMatchesT (47 ms)
+[----------] 1 test from Lenia2DTest (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (47 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.DtMatchesT" end time: Mar 18 11:55 CET
+"Lenia2DTest.DtMatchesT" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/68 Testing: Lenia2DTest.StateDataPointerIsValid
+59/68 Test: Lenia2DTest.StateDataPointerIsValid
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.StateDataPointerIsValid" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.StateDataPointerIsValid" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.StateDataPointerIsValid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.StateDataPointerIsValid
+[       OK ] Lenia2DTest.StateDataPointerIsValid (47 ms)
+[----------] 1 test from Lenia2DTest (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (47 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.StateDataPointerIsValid" end time: Mar 18 11:55 CET
+"Lenia2DTest.StateDataPointerIsValid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/68 Testing: Lenia2DTest.InitOrbiumSetsNonzeroPattern
+60/68 Test: Lenia2DTest.InitOrbiumSetsNonzeroPattern
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.InitOrbiumSetsNonzeroPattern" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.InitOrbiumSetsNonzeroPattern" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.InitOrbiumSetsNonzeroPattern
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.InitOrbiumSetsNonzeroPattern
+[       OK ] Lenia2DTest.InitOrbiumSetsNonzeroPattern (48 ms)
+[----------] 1 test from Lenia2DTest (48 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (48 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.InitOrbiumSetsNonzeroPattern" end time: Mar 18 11:55 CET
+"Lenia2DTest.InitOrbiumSetsNonzeroPattern" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/68 Testing: Lenia2DTest.SetGrowthParamsUpdatesConfig
+61/68 Test: Lenia2DTest.SetGrowthParamsUpdatesConfig
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.SetGrowthParamsUpdatesConfig" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.SetGrowthParamsUpdatesConfig" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.SetGrowthParamsUpdatesConfig
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.SetGrowthParamsUpdatesConfig
+[       OK ] Lenia2DTest.SetGrowthParamsUpdatesConfig (48 ms)
+[----------] 1 test from Lenia2DTest (48 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (48 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.SetGrowthParamsUpdatesConfig" end time: Mar 18 11:55 CET
+"Lenia2DTest.SetGrowthParamsUpdatesConfig" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/68 Testing: Lenia2DTest.SetKernelParamsRebuildsKernel
+62/68 Test: Lenia2DTest.SetKernelParamsRebuildsKernel
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.SetKernelParamsRebuildsKernel" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.SetKernelParamsRebuildsKernel" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.SetKernelParamsRebuildsKernel
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.SetKernelParamsRebuildsKernel
+[       OK ] Lenia2DTest.SetKernelParamsRebuildsKernel (48 ms)
+[----------] 1 test from Lenia2DTest (48 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (48 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.SetKernelParamsRebuildsKernel" end time: Mar 18 11:55 CET
+"Lenia2DTest.SetKernelParamsRebuildsKernel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/68 Testing: Lenia2DTest.SetTimeStepUpdatesConfig
+63/68 Test: Lenia2DTest.SetTimeStepUpdatesConfig
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.SetTimeStepUpdatesConfig" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.SetTimeStepUpdatesConfig" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.SetTimeStepUpdatesConfig
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.SetTimeStepUpdatesConfig
+[       OK ] Lenia2DTest.SetTimeStepUpdatesConfig (47 ms)
+[----------] 1 test from Lenia2DTest (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (47 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.SetTimeStepUpdatesConfig" end time: Mar 18 11:55 CET
+"Lenia2DTest.SetTimeStepUpdatesConfig" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/68 Testing: Lenia2DTest.Grid2DAccessorsWork
+64/68 Test: Lenia2DTest.Grid2DAccessorsWork
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia2DTest.Grid2DAccessorsWork" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia2DTest.Grid2DAccessorsWork" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia2DTest.Grid2DAccessorsWork
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia2DTest
+[ RUN      ] Lenia2DTest.Grid2DAccessorsWork
+[       OK ] Lenia2DTest.Grid2DAccessorsWork (47 ms)
+[----------] 1 test from Lenia2DTest (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (47 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia2DTest.Grid2DAccessorsWork" end time: Mar 18 11:55 CET
+"Lenia2DTest.Grid2DAccessorsWork" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/68 Testing: Lenia3DTest.ConstructionSucceeds
+65/68 Test: Lenia3DTest.ConstructionSucceeds
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia3DTest.ConstructionSucceeds" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia3DTest.ConstructionSucceeds" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia3DTest.ConstructionSucceeds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia3DTest
+[ RUN      ] Lenia3DTest.ConstructionSucceeds
+[       OK ] Lenia3DTest.ConstructionSucceeds (9 ms)
+[----------] 1 test from Lenia3DTest (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia3DTest.ConstructionSucceeds" end time: Mar 18 11:55 CET
+"Lenia3DTest.ConstructionSucceeds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/68 Testing: Lenia3DTest.StepProducesValidState
+66/68 Test: Lenia3DTest.StepProducesValidState
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia3DTest.StepProducesValidState" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia3DTest.StepProducesValidState" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia3DTest.StepProducesValidState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia3DTest
+[ RUN      ] Lenia3DTest.StepProducesValidState
+[       OK ] Lenia3DTest.StepProducesValidState (9 ms)
+[----------] 1 test from Lenia3DTest (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia3DTest.StepProducesValidState" end time: Mar 18 11:55 CET
+"Lenia3DTest.StepProducesValidState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/68 Testing: Lenia3DTest.Grid3DAccessorsWork
+67/68 Test: Lenia3DTest.Grid3DAccessorsWork
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia3DTest.Grid3DAccessorsWork" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia3DTest.Grid3DAccessorsWork" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia3DTest.Grid3DAccessorsWork
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia3DTest
+[ RUN      ] Lenia3DTest.Grid3DAccessorsWork
+[       OK ] Lenia3DTest.Grid3DAccessorsWork (9 ms)
+[----------] 1 test from Lenia3DTest (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia3DTest.Grid3DAccessorsWork" end time: Mar 18 11:55 CET
+"Lenia3DTest.Grid3DAccessorsWork" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/68 Testing: Lenia3DTest.InitRandomProducesNonzeroMass
+68/68 Test: Lenia3DTest.InitRandomProducesNonzeroMass
+Command: "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests" "--gtest_filter=Lenia3DTest.InitRandomProducesNonzeroMass" "--gtest_also_run_disabled_tests"
+Directory: /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full
+"Lenia3DTest.InitRandomProducesNonzeroMass" start time: Mar 18 11:55 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Lenia3DTest.InitRandomProducesNonzeroMass
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Lenia3DTest
+[ RUN      ] Lenia3DTest.InitRandomProducesNonzeroMass
+[       OK ] Lenia3DTest.InitRandomProducesNonzeroMass (10 ms)
+[----------] 1 test from Lenia3DTest (10 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (10 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Lenia3DTest.InitRandomProducesNonzeroMass" end time: Mar 18 11:55 CET
+"Lenia3DTest.InitRandomProducesNonzeroMass" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 18 11:55 CET

@@ -1,0 +1,16 @@
+{
+    "name": "Orbium",
+    "dimension": 2,
+    "grid_size": 256,
+    "kernel": {
+        "radius": 13,
+        "beta_center": 0.5,
+        "beta_width": 0.15
+    },
+    "growth": {
+        "mu": 0.15,
+        "sigma": 0.015
+    },
+    "T": 10,
+    "description": "Glider-like creature from Chan 2019"
+}

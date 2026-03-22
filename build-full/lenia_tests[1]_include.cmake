@@ -1,0 +1,5 @@
+if(EXISTS "/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests[1]_tests.cmake")
+  include("/home/danielsan/Documenti/ParallelWatorCA-master/lenia-thesis/build-full/lenia_tests[1]_tests.cmake")
+else()
+  add_test(lenia_tests_NOT_BUILT lenia_tests_NOT_BUILT)
+endif()

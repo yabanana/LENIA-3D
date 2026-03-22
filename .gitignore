@@ -1,0 +1,52 @@
+# Build
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.a
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cache/
+compile_commands.json
+
+# Output
+*.csv
+*.png
+*.bmp
+screenshots/
+benchmark_*.csv
+
+# LaTeX
+thesis/
+docs/
+thesis/*.aux
+thesis/*.bbl
+thesis/*.blg
+thesis/*.log
+thesis/*.out
+thesis/*.toc
+thesis/*.lof
+thesis/*.lot
+thesis/*.fls
+thesis/*.fdb_latexmk
+thesis/*.synctex.gz
+thesis/main.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+credentials.json

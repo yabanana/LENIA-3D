@@ -1,0 +1,406 @@
+{
+  "tests": 68,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "Grid2D",
+      "tests": 14,
+      "testsuite": [
+        {
+          "name": "ConstructionCreatesZeroFilledGrid",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 11
+        },
+        {
+          "name": "ShapeReturnsCorrectDimensions",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 23
+        },
+        {
+          "name": "ElementAccessWithAt",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 32
+        },
+        {
+          "name": "ElementAccessWithOperatorParens",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 43
+        },
+        {
+          "name": "FillSetsAllCells",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 53
+        },
+        {
+          "name": "FillRandomProducesValuesInRange",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 63
+        },
+        {
+          "name": "FillRandomIsDeterministicWithSameSeed",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 77
+        },
+        {
+          "name": "TotalMassComputesSum",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 89
+        },
+        {
+          "name": "TotalMassZeroForEmptyGrid",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 97
+        },
+        {
+          "name": "ClipClampsValues",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 102
+        },
+        {
+          "name": "PlaceBlobCreatesCircularPattern",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 120
+        },
+        {
+          "name": "PlaceBlobWrapsAround",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 143
+        },
+        {
+          "name": "LinearizationIsRowMajor",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 156
+        },
+        {
+          "name": "DataPointerAllowsDirectAccess",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 170
+        }
+      ]
+    },
+    {
+      "name": "Grid3D",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "ConstructionCreatesZeroFilledGrid",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 183
+        },
+        {
+          "name": "ElementAccessWithAt",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 196
+        },
+        {
+          "name": "FillAndMass",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 207
+        },
+        {
+          "name": "PlaceBlobCreatesSphericalPattern",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 215
+        },
+        {
+          "name": "ClipClampsValues",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 236
+        },
+        {
+          "name": "LinearizationIsRowMajor",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 249
+        },
+        {
+          "name": "FillRandomProducesValuesInRange",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_grid.cc",
+          "line": 257
+        }
+      ]
+    },
+    {
+      "name": "Kernel2D",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "KernelSumsToOne",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 11
+        },
+        {
+          "name": "KernelHasCorrectShape",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 26
+        },
+        {
+          "name": "KernelIsNonNegative",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 36
+        },
+        {
+          "name": "KernelHasAnnularStructure",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 48
+        },
+        {
+          "name": "KernelIsRadiallySymmetric",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 73
+        },
+        {
+          "name": "SpectrumHasCorrectSize",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 103
+        },
+        {
+          "name": "SpectrumDCComponentMatchesSum",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 116
+        }
+      ]
+    },
+    {
+      "name": "Kernel3D",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "KernelSumsToOne",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 143
+        },
+        {
+          "name": "KernelHasCorrectShape",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 158
+        },
+        {
+          "name": "KernelIsNonNegative",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 169
+        },
+        {
+          "name": "SpectrumHasCorrectSize",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_kernel.cc",
+          "line": 180
+        }
+      ]
+    },
+    {
+      "name": "FFT2D",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "ForwardInverseRecoverConstantField",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_fft.cc",
+          "line": 12
+        },
+        {
+          "name": "ForwardInverseRecoverImpulse",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_fft.cc",
+          "line": 39
+        },
+        {
+          "name": "ForwardInverseRecoverArbitrarySignal",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_fft.cc",
+          "line": 60
+        },
+        {
+          "name": "PointwiseMultiplyWithIdentity",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_fft.cc",
+          "line": 90
+        },
+        {
+          "name": "PointwiseMultiplyWithZero",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_fft.cc",
+          "line": 120
+        },
+        {
+          "name": "SpectrumSizeIsCorrect",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_fft.cc",
+          "line": 143
+        }
+      ]
+    },
+    {
+      "name": "FFT3D",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "ForwardInverseRecoverConstantField",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_fft.cc",
+          "line": 158
+        },
+        {
+          "name": "ForwardInverseRecoverImpulse",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_fft.cc",
+          "line": 176
+        },
+        {
+          "name": "SpectrumSizeIsCorrect",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_fft.cc",
+          "line": 196
+        }
+      ]
+    },
+    {
+      "name": "Growth",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "PeakAtMuReturnsOne",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_growth.cc",
+          "line": 11
+        },
+        {
+          "name": "FarFromMuReturnsNearNegativeOne",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_growth.cc",
+          "line": 22
+        },
+        {
+          "name": "SymmetryAroundMu",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_growth.cc",
+          "line": 37
+        },
+        {
+          "name": "MonotonicallyDecreasingFromPeak",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_growth.cc",
+          "line": 51
+        },
+        {
+          "name": "RangeIsBetweenMinusOneAndOne",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_growth.cc",
+          "line": 67
+        },
+        {
+          "name": "DifferentParameters",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_growth.cc",
+          "line": 80
+        }
+      ]
+    },
+    {
+      "name": "GrowthBatch",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "MatchesScalarVersion",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_growth.cc",
+          "line": 98
+        },
+        {
+          "name": "HandlesEmptyInput",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_growth.cc",
+          "line": 120
+        },
+        {
+          "name": "InPlaceOperation",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_growth.cc",
+          "line": 126
+        },
+        {
+          "name": "LargeArray",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_growth.cc",
+          "line": 150
+        }
+      ]
+    },
+    {
+      "name": "Lenia2DTest",
+      "tests": 13,
+      "testsuite": [
+        {
+          "name": "ConstructionSucceeds",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 31
+        },
+        {
+          "name": "InitRandomProducesNonzeroMass",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 39
+        },
+        {
+          "name": "StepAdvancesIteration",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 46
+        },
+        {
+          "name": "StepChangesState",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 57
+        },
+        {
+          "name": "ValuesStayInZeroOneRange",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 79
+        },
+        {
+          "name": "MassChangesGradually",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 98
+        },
+        {
+          "name": "DtMatchesT",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 116
+        },
+        {
+          "name": "StateDataPointerIsValid",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 121
+        },
+        {
+          "name": "InitOrbiumSetsNonzeroPattern",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 128
+        },
+        {
+          "name": "SetGrowthParamsUpdatesConfig",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 139
+        },
+        {
+          "name": "SetKernelParamsRebuildsKernel",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 152
+        },
+        {
+          "name": "SetTimeStepUpdatesConfig",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 174
+        },
+        {
+          "name": "Grid2DAccessorsWork",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 182
+        }
+      ]
+    },
+    {
+      "name": "Lenia3DTest",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "ConstructionSucceeds",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 218
+        },
+        {
+          "name": "StepProducesValidState",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 226
+        },
+        {
+          "name": "Grid3DAccessorsWork",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 242
+        },
+        {
+          "name": "InitRandomProducesNonzeroMass",
+          "file": "\/home\/danielsan\/Documenti\/ParallelWatorCA-master\/lenia-thesis\/tests\/core\/test_lenia.cc",
+          "line": 251
+        }
+      ]
+    }
+  ]
+}
